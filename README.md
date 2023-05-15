@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 🌱 I’m currently learning Python、Golang、Spark、llm、chatGPT、langchain
+ - 🌱 I’m currently learning Python、Golang、Spark、LLM、ChatGPT、LangChain
  - 📫 How to reach me:zhucaidong@aliyun.com
 <!--
 **caidongHui/caidongHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
