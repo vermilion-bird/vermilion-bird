@@ -1,7 +1,11 @@
 ### Hi there 👋
  - 🌱 I’m currently learning Python、Golang、Spark、LLM、ChatGPT、LangChain
  - 📫 How to reach me:zhucaidong@aliyun.com
-
+# Hi there, I am Benny 👋
+![GitHub followers](https://img.shields.io/github/followers/CodeDevNinja?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/CodeDevNinja?style=social)
+### 🌱 My Contributions So Far!
+![github stats](https://github-readme-stats.vercel.app/api?username=CodeDevNinja&show_icons=true)
 ### 公众号
 ![公众号](./image/微信公众号搜索-白底.png)
 <!--
