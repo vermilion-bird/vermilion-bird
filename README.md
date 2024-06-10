@@ -4,8 +4,6 @@
  - ![GitHub followers](https://img.shields.io/github/followers/CodeDevNinja?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/CodeDevNinja?style=social)
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=CodeDevNinja&show_icons=true)
-### 公众号
-![公众号](./image/微信公众号搜索-白底.png)
 <!--
 **caidongHui/caidongHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
