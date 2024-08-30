@@ -3,7 +3,7 @@
  - 📫 How to reach me:zhucaidong@aliyun.com
  - ![GitHub followers](https://img.shields.io/github/followers/CodeDevNinja?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/CodeDevNinja?style=social)
 ### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=CodeDevNinja&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=vermilion-bird&show_icons=true)
 <!--
 **caidongHui/caidongHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
