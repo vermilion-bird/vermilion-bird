@@ -1,7 +1,7 @@
 ### Hi there 👋
  - 🌱 I’m currently learning Python、Golang、Spark、LLM、ChatGPT、LangChain
  - 📫 How to reach me:zhucaidong@aliyun.com
- - ![GitHub followers](https://img.shields.io/github/followers/CodeDevNinja?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/CodeDevNinja?style=social)
+ - ![GitHub followers](https://img.shields.io/github/followers/vermilion-bird?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/vermilion-bird?style=social)
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=vermilion-bird&show_icons=true)
 <!--
